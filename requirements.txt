@@ -1,0 +1,13 @@
+flask
+flask-cors
+werkzeug
+tensorflow
+numpy
+opencv-python-headless
+librosa
+soundfile
+scipy
+gTTS
+torch
+transformers
+safetensors
